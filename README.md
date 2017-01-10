@@ -3,10 +3,10 @@ HTML5 Basics
 
 Beginning HTML5 with simple code with focus on 
 
-#HTML Sessin and Local Storages
+HTML Sessin and Local Storages
 
-#Canvas
+Canvas
 
-#Audio Embedding
+Audio Embedding
 
-#Geolocation
+Geolocation
